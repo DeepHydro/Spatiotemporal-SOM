@@ -15,7 +15,7 @@ Third-party libraries used in this repository:
 * [SOM Toolbox 2.0](http://www.cis.hut.fi/projects/somtoolbox/)
 
 ## Acknowledgements
-The Visual HEIFLOW project is supported by the National Natural Science Foundation of China (No. 41501024; No. 41622111; No. 91425303; No. 91225301). Additional support was provided by the Southern University of Science and Technology (No. G01296001) and the Shenzhen Municipal Science and Technology Innovation Committee (JCYJ20160530190547253).
+The Spatiotemporal-SOM is supported by the National Natural Science Foundation of China (No. 41890852).
 
 ## COPYRIGHT
 This software is free; you can redistribute it and/or modify it under the terms of the MIT License.
