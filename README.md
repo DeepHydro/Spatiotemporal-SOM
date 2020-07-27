@@ -11,7 +11,7 @@ Vatanen, T., Osmala, M., Raiko, T., Lagus, K., Sysi-Aho, M., Orešič, M., Honke
 Vesanto, J., Himberg, J., Alhoniemi, E. & Parhankangas, J. (2000b) Self-organizing map in Matlab: The SOM Toolbox. Proceedings of the Proceedings of the Matlab DSP Conference, 99.
 
 ## Major Libraries
-Several third-party libraries are used:
+Third-party libraries used in this repository:
 * [SOM Toolbox 2.0](http://www.cis.hut.fi/projects/somtoolbox/)
 
 ## Acknowledgements
