@@ -8,7 +8,7 @@ Spatiotemporal-SOM is developed by a candidate Ph.D. student Jiang Yu at [Colleg
 
 ## References
 Vatanen, T., Osmala, M., Raiko, T., Lagus, K., Sysi-Aho, M., Orešič, M., Honkela, T. and Lähdesmäki, H. (2015) Self-organization and missing values in SOM and GTM. Neurocomputing, 147, 60–70. https://doi.org/10.1016/j.neucom.2014.02.061
-Vesanto, J., Himberg, J., Alhoniemi, E. & Parhankangas, J. (2000b) Self-organizing map in Matlab: The SOM Toolbox. Proceedings of the Proceedings of the Matlab DSP Conference, 99.
+Vesanto, J., Himberg, J., Alhoniemi, E. & Parhankangas, J. (2000) Self-organizing map in Matlab: The SOM Toolbox. Proceedings of the Proceedings of the Matlab DSP Conference, 99.
 
 ## Major Libraries
 Third-party libraries used in this repository:
